@@ -5,7 +5,7 @@
     "description": "Solid Regular Fit Casual Shirt",
     "oldPrice": 1499,
     "newPrice": 999,
-    "image": "assets/men-shirt1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/menshop1.jpg"
   },
   {
     "id": 10,
@@ -13,7 +13,7 @@
     "description": "Blue Slim Fit Stretchable Jeans",
     "oldPrice": 2199,
     "newPrice": 1599,
-    "image": "assets/men-jeans1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/menshop2.jpg"
   },
   {
     "id": 11,
@@ -21,7 +21,7 @@
     "description": "Cotton Polo Neck Solid T-Shirt",
     "oldPrice": 999,
     "newPrice": 699,
-    "image": "assets/men-tshirt1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/menshop3.jpg"
   },
   {
     "id": 12,
@@ -29,7 +29,7 @@
     "description": "Lightweight Running Sports Shoes",
     "oldPrice": 2999,
     "newPrice": 1999,
-    "image": "assets/men-shoes1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/menshop4.jpg"
   },
   {
     "id": 13,
@@ -37,7 +37,7 @@
     "description": "Premium Stainless Steel Watch",
     "oldPrice": 3499,
     "newPrice": 2499,
-    "image": "assets/men-watch1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/menshop5.jpg"
   },
   {
     "id": 14,
@@ -45,7 +45,7 @@
     "description": "Solid Hooded Sweatshirt",
     "oldPrice": 1899,
     "newPrice": 1299,
-    "image": "assets/men-hoodie1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/menshop6.jpg"
   },
   {
     "id": 15,
@@ -53,7 +53,7 @@
     "description": "Regular Fit Formal Office Shirt",
     "oldPrice": 1699,
     "newPrice": 1199,
-    "image": "assets/men-formal1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/menshop7.jpg"
   },
   {
     "id": 16,
@@ -61,6 +61,6 @@
     "description": "Genuine Leather Bi-Fold Wallet",
     "oldPrice": 1299,
     "newPrice": 899,
-    "image": "assets/men-wallet1.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/menshop8.jpg"
   }
 ]

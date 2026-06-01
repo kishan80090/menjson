@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9,
+    "name": "Men Casual Shirt",
+    "description": "Solid Regular Fit Casual Shirt",
+    "oldPrice": 1499,
+    "newPrice": 999,
+    "image": "assets/men-shirt1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Men Slim Fit Jeans",
+    "description": "Blue Slim Fit Stretchable Jeans",
+    "oldPrice": 2199,
+    "newPrice": 1599,
+    "image": "assets/men-jeans1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Men Polo T-Shirt",
+    "description": "Cotton Polo Neck Solid T-Shirt",
+    "oldPrice": 999,
+    "newPrice": 699,
+    "image": "assets/men-tshirt1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Men Sports Shoes",
+    "description": "Lightweight Running Sports Shoes",
+    "oldPrice": 2999,
+    "newPrice": 1999,
+    "image": "assets/men-shoes1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Men Analog Watch",
+    "description": "Premium Stainless Steel Watch",
+    "oldPrice": 3499,
+    "newPrice": 2499,
+    "image": "assets/men-watch1.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Men Hoodie",
+    "description": "Solid Hooded Sweatshirt",
+    "oldPrice": 1899,
+    "newPrice": 1299,
+    "image": "assets/men-hoodie1.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Men Formal Shirt",
+    "description": "Regular Fit Formal Office Shirt",
+    "oldPrice": 1699,
+    "newPrice": 1199,
+    "image": "assets/men-formal1.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Men Leather Wallet",
+    "description": "Genuine Leather Bi-Fold Wallet",
+    "oldPrice": 1299,
+    "newPrice": 899,
+    "image": "assets/men-wallet1.jpg"
+  }
+]

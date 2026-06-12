@@ -63,7 +63,6 @@
     "newPrice": 899,
     "image": "https://kishan80090.github.io/jsondata/pictures/menshop8.jpg"
   },
-  [
   {
     "id": 17,
     "name": "Men Casual Full Sleeve Shirt",
@@ -128,5 +127,4 @@
     "newPrice": 1399,
     "image": "https://kishan80090.github.io/jsondata/pictures/shirt7.jpg"
   }
-]
 ]

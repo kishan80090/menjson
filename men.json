@@ -62,5 +62,71 @@
     "oldPrice": 1299,
     "newPrice": 899,
     "image": "https://kishan80090.github.io/jsondata/pictures/menshop8.jpg"
+  },
+  [
+  {
+    "id": 17,
+    "name": "Men Casual Full Sleeve Shirt",
+    "description": "Regular Fit Cotton Casual Shirt",
+    "oldPrice": 1599,
+    "newPrice": 1099,
+    "image": "https://kishan80090.github.io/jsondata/pictures/shirt.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Men Checked Full Sleeve Shirt",
+    "description": "Stylish Checked Casual Shirt",
+    "oldPrice": 1799,
+    "newPrice": 1299,
+    "image": "https://kishan80090.github.io/jsondata/pictures/shirt1.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Men Slim Fit Cotton Shirt",
+    "description": "Premium Slim Fit Formal Shirt",
+    "oldPrice": 1899,
+    "newPrice": 1399,
+    "image": "https://kishan80090.github.io/jsondata/pictures/shirt2.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Men Printed Casual Shirt",
+    "description": "Trendy Printed Full Sleeve Shirt",
+    "oldPrice": 1699,
+    "newPrice": 1199,
+    "image": "https://kishan80090.github.io/jsondata/pictures/shirt3.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Men Denim Shirt",
+    "description": "Classic Denim Regular Fit Shirt",
+    "oldPrice": 2299,
+    "newPrice": 1699,
+    "image": "https://kishan80090.github.io/jsondata/pictures/shirt4.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Men Linen Shirt",
+    "description": "Premium Linen Casual Shirt",
+    "oldPrice": 1999,
+    "newPrice": 1499,
+    "image": "https://kishan80090.github.io/jsondata/pictures/shirt8.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Men Striped Shirt",
+    "description": "Modern Striped Formal Shirt",
+    "oldPrice": 1799,
+    "newPrice": 1299,
+    "image": "https://kishan80090.github.io/jsondata/pictures/shirt6.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Men Solid Formal Shirt",
+    "description": "Elegant Solid Office Wear Shirt",
+    "oldPrice": 1899,
+    "newPrice": 1399,
+    "image": "https://kishan80090.github.io/jsondata/pictures/shirt7.jpg"
   }
+]
 ]
